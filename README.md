@@ -17,5 +17,3 @@ See the LICENSE file for more details.
 
 📩 Contact
 Creator: pvulk
-
-LinkedIn:https://www.linkedin.com/in/paul-k-2329241bb
